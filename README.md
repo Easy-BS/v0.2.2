@@ -34,7 +34,7 @@ This project explores how Large Language Models (LLMs) and AI-Agent systems can 
 
 • Result interpretation
 <p align="center">
-  <img src="docs/Picture1_.svg" width="700">
+  <img src="docs/Fig_1+.svg" width="700">
 </p>
 
 🚀 Key Features
