@@ -54,7 +54,7 @@ This project explores how Large Language Models (LLMs) and AI-Agent systems can 
 The Easy-BS (Easy-Building-Simulation) framework consists of AI agents that collaborate to construct and simulate building models through structured reasoning and tool execution.
 
 <p align="center">
-  <img src="docs/Picture4.svg" width="700">
+  <img src="docs/Fig_3.svg" width="700">
 </p>
 
 📁 Project Structure
