@@ -1,5 +1,7 @@
 # Easy-BS v0.2.2
+
 🔔Easy-BS (Easy-Building-Simulation) is an AI-agent–driven building performance simulation framework that enables non-expert users to generate, modify, and simulate building energy models using natural language.
+
 =======================
 🆕 What's New in v0.2.2
 Natural-language multi-zone layout, without coordinates
