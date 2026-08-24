@@ -21,6 +21,7 @@ All four multi-zone test plans resolve to layouts identical to their reference c
 Explicit coordinate input remains supported as an alternative mode, so existing scripts continue to work.
 
 =======================
+
 This project explores how Large Language Models (LLMs) and AI-Agent systems can automate traditionally expert-driven building simulation workflows such as:
 
 • Geometry creation
