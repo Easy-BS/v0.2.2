@@ -5,6 +5,7 @@
 =======================
 
 🆕 What's New in v0.2.2
+
 Natural-language multi-zone layout, without coordinates
 
 In v0.0.1, irregular multi-zone plans required the user to type explicit room polygon coordinates. This version removes that requirement.
